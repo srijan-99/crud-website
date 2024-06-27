@@ -75,7 +75,7 @@ npm run dev
 - Material UI
 
 ## Contributors
-- [Pratham Singh](https://www.github.com/pratham891)
+- [Srijan Ojha](https://www.github.com/srijan-99)
 
 ## Contact
-For inquiries or support, please contact [prathambsingh891@gmail.com](mailto:prathambsingh891@gmail.com)
+For inquiries or support, please contact [srijanojha26@gmail.com](mailto:srijanojha26@gmail.com)
