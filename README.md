@@ -7,7 +7,7 @@ Deployed on Vercel, the project showcases proficiency in full-stack development,
 ## For running the application locally
 ### Clone this repository in your local machine
 ```
-git clone https://github.com/pratham891/crud-web-app
+git clone https://github.com/srijan-99/crud-website
 ```
 
 ## Installation
